@@ -10,3 +10,4 @@
 <li>В файле hh_api.php впишите данные для доступа к апи hh.ru (client id, client secret, app name, developer email)</li>
 </ol>
 
+<p>Постепенно будет дописываться...</p>
